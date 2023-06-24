@@ -13,10 +13,10 @@
 <p align="center">I'm former Music Producer and Songwriter for top echelon Artists. <br>Me and my team made a lot of big and commercially successful records.<br> ________________<br><br>At this point Development is part of my life. That why I'm here.</p>
 
 ###
-###
-
 
 <h2 align="center">I code with :</h2>
+
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
