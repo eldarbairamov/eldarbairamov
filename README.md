@@ -10,7 +10,11 @@
 
 ###
 
-<p align="center">I'm former Music Producer and Songwriter for top echelon Artists. <br>Me and my team made a lot of big and commercially successful records.<br> ________________<br><br>At this point Development is part of my life. That why I'm here.</p>
+<p align="center">I'm former Music Producer and Songwriter for top echelon Artists. <br>Me and my team made a lot of big and commercially successful records.</p>
+
+###
+
+<h3 align="center">At this point Development is part of my life. That why I'm here.</h3>
 
 ###
 
