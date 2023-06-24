@@ -6,7 +6,9 @@
 
 ###
 
-<h2 align="center">About me :</h2>
+<h1 align="center"></h1>
+
+<h3 align="center">About me :</h3>
 
 ###
 
@@ -18,7 +20,9 @@
 
 ###
 
-<h2 align="center">I code with :</h2>
+<h1 align="center"></h1>
+
+<h3 align="center">I code with :</h3>
 
 ###
 
@@ -51,6 +55,8 @@
 </div>
 
 ###
+
+<h1 align="center"></h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eldarbairamov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
