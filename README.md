@@ -20,29 +20,29 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=sequelize" height="50" alt="sequelize logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
 </div>
 
