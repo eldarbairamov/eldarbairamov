@@ -56,6 +56,8 @@
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="50" alt="socketio logo"  />
 </div>
 
 ###
